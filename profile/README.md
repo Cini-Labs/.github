@@ -6,7 +6,7 @@
 
 **A modern dating platform built for the Ethiopian diaspora community**
 
-[![Website](https://img.shields.io/badge/Website-cini.app-D4AF37?style=for-the-badge)](https://www.cini.app)
+[![Website](https://img.shields.io/badge/Website-cini.love-D4AF37?style=for-the-badge)](https://www.cini.love)
 [![iOS](https://img.shields.io/badge/iOS-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
 [![Android](https://img.shields.io/badge/Android-Google_Play-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com)
 
@@ -97,16 +97,11 @@ Upgrade to Cini Premium for:
 
 ---
 
-## 🌍 Join Our Community
+## 🇺🇸 Currently Available in the United States
 
-Cini is growing every day with Ethiopian singles from:
-- 🇺🇸 United States
-- 🇨🇦 Canada
-- 🇬🇧 United Kingdom
-- 🇦🇺 Australia
-- 🇸🇪 Sweden
-- 🇩🇪 Germany
-- And many more countries around the world!
+Cini is currently available for Ethiopian singles living in the United States. We're growing every day and connecting people across all 50 states!
+
+**Coming Soon**: We're planning to expand to other countries with large Ethiopian diaspora communities. Stay tuned!
 
 ---
 
@@ -114,8 +109,8 @@ Cini is growing every day with Ethiopian singles from:
 
 We'd love to hear from you!
 
-- 📧 **Email**: support@cini.app
-- 🌐 **Website**: [www.cini.app](https://www.cini.app)
+- 📧 **Email**: support@cini.love
+- 🌐 **Website**: [www.cini.love](https://www.cini.love)
 - 📱 **Follow Us**: 
   - Instagram: [@CiniApp](https://instagram.com/ciniapp)
   - Facebook: [Cini Dating](https://facebook.com/ciniapp)
@@ -137,15 +132,15 @@ We'd love to hear from you!
 
 Are you organizing Ethiopian community events? Want to collaborate with Cini?
 
-Contact us at partnerships@cini.app
+Contact us at support@cini.love
 
 ---
 
 ## 📄 Legal
 
-- [Terms of Service](https://www.cini.app/terms)
-- [Privacy Policy](https://www.cini.app/privacy)
-- [Community Guidelines](https://www.cini.app/guidelines)
+- [Terms of Service](https://www.cini.love/terms)
+- [Privacy Policy](https://www.cini.love/privacy)
+- [Community Guidelines](https://www.cini.love/guidelines)
 
 ---
 
@@ -161,6 +156,6 @@ Thank you to the Ethiopian diaspora community for your continued support and fee
 
 *Connecting hearts, preserving culture, building futures*
 
-[Download on iOS](https://apps.apple.com) • [Download on Android](https://play.google.com) • [Visit Website](https://www.cini.app)
+[Download on iOS](https://apps.apple.com) • [Download on Android](https://play.google.com) • [Visit Website](https://www.cini.love)
 
 </div>
